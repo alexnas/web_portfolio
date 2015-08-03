@@ -1,0 +1,15 @@
+/* CSS Reset */
+* {
+margin: 0;
+padding: 0;
+border: 0;
+}
+.fll{float:left;}
+.flr{float:right;}
+body {
+padding: 0;
+background: #fff;
+color: #1e1e1e;
+font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+a {text-decoration: none;}

@@ -1,0 +1,12 @@
+/* CSS Reset */
+* {
+margin: 0;
+padding: 0;
+border: 0;
+}
+p {clear:both}
+.fll{display: block; float:left;}
+.flr{display: block; float:right;}
+a {text-decoration: none;}
+img {border: none;}
+	

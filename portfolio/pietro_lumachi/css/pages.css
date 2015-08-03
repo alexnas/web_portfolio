@@ -1,0 +1,284 @@
+body {
+	background: #231C14;
+	color: #B9A352;
+	font-size: 16px ;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   width: 100%;
+}
+h1 {
+   padding:0 0 0 0;	
+	color:#99FF99;	
+	font-size:  180%;
+	font-weight:900;		
+}
+h2 {
+	font-weight:bold;
+	font-size:  120%;	
+	color:#FFCC99;
+}
+h3{
+	margin:-10px 0 4px 0;
+	font-weight:bold;
+	font-size:  120%;	
+	color:#FFCC99;	
+}
+
+#wrap{ 
+	position: relative;
+	margin: 0 auto; 
+	width:930px;
+	height:100%;
+}
+#header{
+	padding: 15px 0 0 0;	
+	width:900px;
+	height:40px;
+	background: #231C14;
+}
+.tt_head{
+	padding: 8px 0 0 15px;	
+}
+.flag{
+  margin: 15px 10px 0 2px;
+  width:30px;
+  height:18px;	
+}
+#nav{
+	width:780px;
+	font-size:  90%;
+	color:#FFB366;	
+}
+#nav ul{
+	padding: 25px 0 15px 5px;	
+}
+#nav li {
+	margin: 0 12px;
+	display: block;
+   float: left;   	  
+}
+#nav  a {
+	color: #B9A352;
+   text-decoration: none;
+   font-size:  82%;   
+}
+.bul{
+	margin: 0 1px 3px 0;
+}
+.title{
+	padding:65px 0  25px 95px;
+}
+
+.tac{
+	text-align: center;
+}
+/*===================cv/bio====================*/
+#photo{
+	margin:5px 0 50px 105px;
+	width:600px;
+	height:450px;
+	background:#231C14;		
+}
+.photo_PL{
+	width:600px;
+	height:450px;
+}
+#bio{
+	margin:50px 0 55px 105px;
+	width:730px;	 
+}
+#bio p {
+	margin: 0 0 7px 0;
+	font-size:  95%;	 
+	color:#B9A352;
+}
+/*===================footer====================*/
+#footer{
+	margin: 16px auto;		 
+	width:850px;
+	height:27px;
+	background: #231C14;
+}
+.tt_foot{
+   margin: 6px 8px 0 0;
+	font-size:  72%;	
+	color:#FFCC99;	
+}
+.tt_copyr{
+   margin: 10px 0 0 20px;
+	font-size:  45%;	 
+	color:#B9A352;	
+}
+
+#footer a{
+	color: #FFCC99;
+   text-decoration: none;
+}
+/*===================gallery_1====================*/
+ #gallery_1{
+ 	margin:10px 0 55px 140px;
+	width:561px;
+	height:450px;	
+ }
+.str{ 
+ 	width:561px; 	
+ }
+ 
+.str_last{
+	margin: 0 auto;
+ 	width:374px; 	 
+ }
+ .pic{
+   margin: 0 7px;     
+ 	width:173px;
+	height:238px;
+	text-align: center; 
+ }
+.gall_1{ 
+	color:#FFCC99;			
+	font-size:  100%;
+	font-weight:bold;
+	line-height: 120%;
+	text-decoration: none;	
+}
+
+.gall_1-im{
+	color:#FFCC99;	
+	font-size:  76%;
+	font-weight:normal;	
+	text-decoration: none;	
+}
+/*===================select====================*/
+ .submenu{ 	
+ 	width:900px; 	
+ 	padding:60px 0px  0px 30px;
+ }
+ .form1{
+   margin: -25px 30px 25px 0px;
+ 	border: 2px inset #9D9DA1; 
+ }
+ .combo	{
+	font-family: Verdana, sans-serif;
+	font-size:72%;
+	color: #B9A352;
+	text-decoration: none;
+	background-color: #231C14;	
+}
+ /*===================gallery_2====================*/
+#gallery_2{
+ 	margin:50px 0 55px 180px;
+	width:600px;
+	height:350px;	
+ 
+ }
+.gall_2{
+ 	color: #B9A352;
+   text-decoration: none;
+   font-size:  82%;
+   line-height: 190%;   
+ }
+ .pic_2{
+ 	text-align: center;
+ 	width:100px;	
+ }
+ .str_2{ 
+ 	width:600px;
+ 	height: 130px;	
+ }
+ .str_2_last{
+	margin: 0 auto;
+	width:320px;
+	height: 100px;
+ }
+ /*===================gallery_3====================*/
+ #gallery_3{ 
+ 	margin:10px auto;
+ 	text-align: left;	
+ 	background: #231C14;
+ 	color: #B9A352;
+ 	font-size:  96%;
+ 	width:640px;
+	height: auto;
+ }
+.gall_3{
+	color: #FFCC99;
+   text-decoration: none;
+   font-size:  85%;
+   line-height: 190%;   
+}
+
+.material{	
+	padding-bottom: 12px;
+	font-weight: normal;
+}
+/*===================blog====================*/ 
+
+.tt_blog{
+	color: #FFCC99;
+	font-size: 85%;
+   text-decoration: none;
+}
+/*===================links====================*/ 
+ .links{
+ 
+	margin: 10px 0 0 120px;
+	width: 680px;
+	height: 460px;
+	line-height: 130%;
+	text-align: left;	
+}
+/*===================contacts====================*/ 
+.txtfield{  
+   padding: 2px;   
+	border: solid 1px #B9A352;
+	color: #B9A352;
+	font-family: Verdana, sans-serif;	
+	background-color: #231C14;
+}
+.message{
+   margin: 5px 0 10px 0;
+   padding:8px; 
+}
+.contact{
+   margin: 10px 0 0px 0;
+	width: 310px;
+	height: 35px;	
+}
+.label{
+	font-size: 78%;
+	line-height: 120%;	
+}
+.name{
+	margin: 3px 0 0px 0;
+	height: 20px;   
+}
+.//security_code{
+	margin-bottom: 30px;	
+	width: 400px;
+	height: auto;
+	 border: red solid 1px;	
+}
+.tt_contact{
+	width: 250px;
+	height: auto;
+	line-height: 190%;
+	font-size: 78%;
+}
+.img_cod{
+	margin: 62px 5px 0 2px;
+	width: 100px;
+	height: 30px;
+}
+.cod{
+	margin: 20px 2px 0 2px;
+	width: 83px;
+	height: 16px;
+}
+.butt{
+   margin: 10px 2px 0 2px;
+   padding: 2px;
+	border: 2px inset #9D9DA1; 
+	width: 58px;
+	height: 22px; 
+}
+
+

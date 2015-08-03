@@ -1,0 +1,109 @@
+/*spb-motors-000 */
+body {
+	padding: 0;
+	background: #fff;
+	color: #1e1e1e;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+
+#header {
+	width: 848px;
+	height: 62px;
+	background: #ccc url(../Images/header.jpg) no-repeat;
+	color:#000;
+	margin: 14px 0 0 83px;
+}
+.logo{
+	width: 140px;
+	height: 31px;
+	margin-top: 17px;
+	margin-left:43px;
+}
+.tel{
+	color:#000;
+	font-size: 18px;
+	margin-top: 19px;
+	margin-right:24px;
+}
+.tel-w{color:#fff;}
+/*Ã≈Õﬁ*/
+#menu, #chery,#footer, #labels, #fr, #chery_02, #chery_03  {width: 848px; margin: 0 0 0 83px;}  
+#menu{
+	height: 30px;
+	background: #f4f4f4;
+	color: #8d8d8d;
+	font-size: 8pt;
+	text-align: center;
+	line-height: 2.8em;
+}
+#menu ul {
+	list-style-type: none;
+	margin-left:19px;
+}
+#menu li {
+	margin: 0 15px;
+	float: left;  
+	position: relative;   
+}
+#menu  a {color: #8d8d8d;}
+#menu  a:hover {color: #1e1e1e;}
+#menu ul li ul { 
+	margin: 0px; 
+	position: absolute;   
+	left: -32px;  
+	top: 20px; 
+	width: 235px;
+	height: 110px;
+	background: url(../Images/menunav.png) no-repeat;
+	padding:26px 0 0 8px;
+}
+#menu ul li ul li  { 
+	text-align: left;
+	line-height: 1.4em;
+	padding:0 0 6px 12px;   
+} 
+body #menu ul li ul {display: none;}  
+#menu ul li:hover ul { 
+	display:block;
+	position: absolute;
+}
+#menu ul li ul:hover {
+	display:block;
+	position: absolute;
+}
+
+#labels{
+	height: 101px;
+	text-align: center;
+}
+.img1{width:252px; height: 101px;}
+h1 {
+	font-size: 30px;
+	color: #7f7f7f;
+	text-align:left;
+	font-weight: normal;
+	padding-bottom:10px;
+}
+
+/*œŒƒ¬¿À*/
+#footer{
+	height: 120px;
+	border-top: #f0f0f0 solid 1px;
+}
+#footer p{
+	color: #8d8d8d;
+	font-size:12px;
+	line-height: 1.4em;
+}
+.foot_left{
+	width: 279px;
+	margin:19px 0 0 19px;
+}
+.img_f{
+	margin-top:7px;
+	margin-right:7px;
+}
+.contact {
+	width: 520px;
+	margin:19px 0 0 0;
+}

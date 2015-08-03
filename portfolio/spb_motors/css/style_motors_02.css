@@ -1,0 +1,79 @@
+/*spb-motors-002 */
+
+#wrap_02 {
+width: 1003px;
+height: 1422px;
+margin: 0 auto;
+background: #f7f7f7 url(../Images/bgr_wrap.gif) no-repeat;
+color:#000;
+overflow:hidden;
+}
+/*мнбши CHERY KIMO*/
+#chery_02{
+height: 300px;
+border-top: #f0f0f0 solid 1px;
+padding-top:10px;
+}
+.auto_02{
+height: 241px;
+padding: 25px 0 20px 0;
+}
+
+#fr {height: 320px;}
+.bg1,.bg2 {
+width:398px;
+height: 148px;
+background:#f9f9f9;
+border: #dcdcdc solid 1px;
+color:#000;
+}
+.bg1 {margin: 6px 0px 5px 16px;}
+.bg2 {margin: 6px 22px 5px 0px;}
+
+/*лндекх*/
+#models, .headline {
+width:760px;
+padding: 3px 0 0 40px;
+}
+.headline{
+height: 65px;
+color:#000;
+font-size: 11px;
+text-align:left;
+margin: 0 0 0 83px;
+}
+.headline h1 {
+font-size: 30px;
+color: #7f7f7f;
+text-align:left;
+font-weight: normal;
+padding-bottom:1px;
+}
+#models {
+height: 370px;
+text-align:center;
+margin: 0 0 0 85px;
+}
+.m12, .m3 {
+width: 232px;
+height: 370px;
+padding-top:15px;
+}
+.m12 {margin-right:29px;}
+#models a {
+color:#000;
+font-size:18px;
+text-decoration:none;
+}
+#models a:hover{text-decoration:underline;}
+.img_m1, .img_m2 {
+width: 232px;
+height: 124px;
+display: block;
+text-align:center;
+}
+.img_m1 {margin: 0 0 -3px 0;}
+.img_m2 {margin: 18px 0 -17px 0;}
+
+
+

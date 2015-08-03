@@ -1,0 +1,30 @@
+/* CSS Reset */
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+p {
+	clear:both;
+}
+.fll{
+	display: block; float:left;
+}
+.flr{
+	display: block; float:right;
+}
+img {
+	border: none;
+}
+.clr{
+	clear: right;
+}
+.cll{
+	clear: left;
+}
+.clb{
+	clear: both;
+}	
+form{
+  margin:0;
+}

@@ -1,0 +1,35 @@
+/* RESET */
+/*******************************/
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+html {
+	background: transparent;
+	font-size: 16pt;
+}
+img {border: none;}
+
+/* CROSS-SITES CLASSES */
+/*******************************/
+.l{text-align:left;}
+.c{text-align:center;}
+.r{text-align:right;}
+.fll{float:left;display:block;}
+.flr{float:right;display:block;}
+.flcl{clear:both;}
+.clear{clear:both;overflow:hidden;padding:0;border:0;}
+.clr{
+	clear: right;
+}
+.cll{
+	clear: left;
+}
+.clb{
+   clear: both	
+}
+.ofh{
+	overflow:hidden;
+}

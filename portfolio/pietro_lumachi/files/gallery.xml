@@ -1,0 +1,26 @@
+﻿<gallery>
+	<settings>
+		<imagesFolder>slideshow/</imagesFolder>		
+		<bgImage  alpha="100" source="s//lideshow/bg.jpg"/>
+
+		<image align="center" cornerRadius="0" scaleMode="noScale" transitionEffect="fade" useShadow="true"/>
+		<thumbnail width="0" height="0" cornerRadius="0" alpha="70" outlineColor="0xFFFFFF" outlineColorOnRollOver="0xFFFFFF" outlineColorOnClick="0x8B0000" useShadow="false" usePreview="false"/>
+		<thumbBar scrollSpeed="10" position="bottom"/>
+		<preview  alpha="100" width="200" height="100" outlineColor="0xFFFFFF" useShadow="true" cornerRadius="0"/>
+		<caption position="bottom" visibleMode="onRollOver" bgAlpha="30" color="0xFFFFFF" bgColor="0x000000" fontName="Verdana" fontSize="12"/>
+		<slideshow start="true" delay="3" loop="true" stopAutoOnClick="true"/>
+		<preloader alpha="100" usePreloader="true" />
+		<buttons fullScreenButton="true" navigationButtons="true" slideshowButton="true" />
+		<sounds onRollOver="" onClick="" />
+
+		<picasa user="" albumID="" />
+	</settings>
+	<items>
+	<item source="pic_01.jpg" thumb="" description="" link="" target="_blank"/>
+		<item source="pic_02.jpg" thumb="" description="" link="" target="_blank"/>
+		<item source="pic_03.jpg" thumb="" description="" link="" target="_blank"/>
+		<item source="pic_04.jpg" description="" link="" target="_blank"/>		
+		<item source="pic_05.jpg" description="" link="" target="_blank"/>
+		<item source="pic_06.jpg" description=""/>
+	</items>
+</gallery>								 

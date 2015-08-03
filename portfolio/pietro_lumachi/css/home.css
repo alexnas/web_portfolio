@@ -1,0 +1,141 @@
+body {
+	background: #ccc;
+	color: #000;
+	font: 16px Arial, Helvetica, sans-serif;
+   width: 100%;
+   height: 100%;   
+}
+h1 {
+   margin: 15px 0 0 20px;
+	text-align:left;	
+	color:#fff;	
+	font-size:  125%;
+	font-weight:bold;	
+}
+h2 {
+	font-size:  85%;
+	font-weight:normal; 
+	color:#f2f2f2;
+}
+#wrap{ 
+	margin: 75px 0 0 0; 
+	width:727px;
+	height:700px;
+}
+#header{
+	margin: 15px 0 0 0;	
+	width:727px;
+	height:46px;
+	background: #999;	
+}
+.flag{
+  margin: 15px 10px 0 2px;
+  width:30px;
+  height:18px;	
+}
+#nav{
+	width:727px;
+	font-size:  85%;
+	color:#f2f2f2;	
+}
+#nav ul{
+	margin: 10px 0 18px 5px;
+	
+}
+#nav li {
+	margin: 0 8px;
+	display: inline;
+}
+#nav  a {
+	color: #990033;
+   text-decoration: none; 
+   font-size:  78%;  
+}
+#nav  a:hover {
+	color: #990033;
+	text-decoration: underline;
+}
+.bul{
+	margin: 0 1px 3px 0;
+}
+#content{
+	width:727px;
+	height:260px;
+}
+#flash{
+	margin:0 0 0px 20px;	
+	width:195px;
+	height:240px;
+   background: #000;
+   border: 1px solid #f2f2f2; 	
+	text-align: center;	
+}
+#right{
+	margin:30px 60px 0 20px;
+	width:400px;
+	border:1px red solid;
+}
+#right p, #right .sig {
+	font-size:  120%;
+	font-style: italic;
+	font-weight:normal; 
+	color:#04235C;
+	line-height: 200%;
+}
+#right-triangle{
+	margin:140px 0px 0 0px;
+	width:160px;
+	font-size:  68%;
+	font-style: italic;
+	font-weight:normal; 
+	color:#04235C;
+	line-height: 200%;	
+}
+.ind1{
+	text-indent: 40pt;	
+	}
+.ind2{
+	text-indent: 30pt;	
+	}
+.ind3{
+	text-indent: 20pt;	
+	}
+.ind4{
+	text-indent: 10pt;	
+	}	
+.sig {
+	text-align: right;
+	font-size:  140%;
+	font-weight:normal; 		
+}
+#footer{
+	margin: 2px auto;		 
+	width:727px;
+	height:30px;
+	background: #999;
+	
+}
+.tt_foot{
+   margin: 6px 8px 0 0;
+	font-size:  72%;
+	font-weight:normal; 
+	color:#fff;	
+}
+.tt_copyr{
+   margin: 8px 0 0 4px;
+	font-size:  55%;
+	font-weight:normal; 
+	color:#fff;	
+}
+
+#footer a{
+	color:#fff;	
+	text-decoration: none;
+}
+#footer a:hover{
+	color: #990033;
+	text-decoration: underline;
+}  
+
+
+

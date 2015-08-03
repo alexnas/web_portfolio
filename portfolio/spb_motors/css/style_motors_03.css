@@ -1,0 +1,96 @@
+/*spb-motors-003 */
+
+#wrap_03 {
+width: 1003px;
+height: 1014px;
+margin: 0 auto;
+background: #f7f7f7 url(../Images/bgr_wrap.gif) no-repeat;
+color:#000;
+overflow:hidden;
+}
+/*ÕŒ¬€… CHERY KIMO*/
+#chery_03{
+height: 310px;
+border-top: #f0f0f0 solid 1px;
+padding-top:10px;
+}
+.auto_03{
+height: 241px;
+width:848px;
+padding: 25px 0 20px 0;
+}
+/*—Œƒ≈–∆¿Õ»≈*/
+#content{
+width:792px;
+height: 352px;
+padding: 20px 0 0 21px;
+margin: 0 0 0 85px;
+}
+#left {
+width:208px;
+height: 335px;
+background: url(../Images/blank_left-H.png) no-repeat;
+color:#1e1e1e;
+}
+#middle {
+width:367px;
+height: 335px;
+color:#000;
+margin:0;
+}
+.auto_03-2 {
+width:209px;
+height: 121px;
+margin: 13px 0 20px 82px;
+}
+#price {
+padding: 0;
+margin: 0 0 0 5px;
+width:361px;
+height: 153px;
+color:#000;
+font-size:12px;
+text-align: center;
+display: table;
+border-collapse: collapse;
+}
+.t_t1 {
+font-size:11px;
+font-weight: bold;
+height: 28px;
+}
+.t1 {height: 28px;}
+.t1 td {border-top: 1px solid #f0f0f0;}
+
+#right {width:208px;height: 335px;}
+
+.r1{
+background: url(../Images/blank_right-1-H.png) no-repeat;
+color: #1e1e1e;
+height: 205px;
+}
+.r2{
+height: 101px;
+background: url(../Images/blank_right-2-H.png) no-repeat;
+color: #1e1e1e;
+font-size:12px;
+}
+.top {
+color:#fff;
+padding: 6px 0 0 37px;
+font-size:14px;
+}
+#content li a {color:#8d8d8d; text-decoration:none;}
+#content li a:hover{text-decoration:none; color: #1e1e1e; }
+
+#left ul, #right ul {
+list-style-type: none;
+margin:17px 0 0 37px;
+line-height: 1.42em;
+}
+#left li, #right li {color: #1e1e1e; font-size: 12px;}
+
+.r2_t {padding:19px 0 0 37px;}
+#right a {color: #1e1e1e; text-decoration:underline;}
+#right a:hover { text-decoration:none;}
+
